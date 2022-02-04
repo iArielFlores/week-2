@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8536ae76-4040-4a41-b14f-371b7332e3de": {
+      "ProjectGuid": "8536ae76-4040-4a41-b14f-371b7332e3de",
+      "DisplayName": "Chapter 1 - Total Purchase",
+      "ColorIndex": 0
+    },
+    "533c6cbf-a80d-438b-b6cf-3056d3e3bd06": {
+      "ProjectGuid": "533c6cbf-a80d-438b-b6cf-3056d3e3bd06",
+      "DisplayName": "Chapter 2 - Physics Formulas",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\bin\Debug\net6.0\Week 2 Assignment.exe
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\bin\Debug\net6.0\Week 2 Assignment.deps.json
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\bin\Debug\net6.0\Week 2 Assignment.runtimeconfig.json
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\bin\Debug\net6.0\Week 2 Assignment.dll
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\bin\Debug\net6.0\ref\Week 2 Assignment.dll
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\bin\Debug\net6.0\Week 2 Assignment.pdb
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.csproj.AssemblyReference.cache
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.AssemblyInfoInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.AssemblyInfo.cs
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.dll
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\ref\Week 2 Assignment.dll
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.pdb
+C:\Users\Ariel Flores\source\repos\Week 2 Assignment\obj\Debug\net6.0\Week 2 Assignment.genruntimeconfig.cache
