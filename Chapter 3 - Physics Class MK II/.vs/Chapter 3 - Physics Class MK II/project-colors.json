@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0cc7dba-7a84-4c66-8c53-2508aaefcbe4": {
+      "ProjectGuid": "a0cc7dba-7a84-4c66-8c53-2508aaefcbe4",
+      "DisplayName": "Chapter 3 - Physics Class MK II",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
