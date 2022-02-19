@@ -26,3 +26,17 @@ D:\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\o
 D:\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.dll
 D:\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.pdb
 D:\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.genruntimeconfig.cache
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\bin\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.exe
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\bin\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.deps.json
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\bin\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.runtimeconfig.json
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\bin\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.runtimeconfig.dev.json
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\bin\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.dll
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\bin\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.pdb
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.csproj.AssemblyReference.cache
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.AssemblyInfoInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.AssemblyInfo.cs
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.dll
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.pdb
+C:\Users\Ariel Flores\source\repos\Week 3 Assignment Instructions - Cars\Week 3 Assignment Instructions - Cars\obj\Debug\netcoreapp3.1\Week 3 Assignment Instructions - Cars.genruntimeconfig.cache

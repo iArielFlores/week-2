@@ -1,0 +1,16 @@
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\Week 4 Assignment - Rectangle.exe
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\Week 4 Assignment - Rectangle.deps.json
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\Week 4 Assignment - Rectangle.runtimeconfig.json
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\Week 4 Assignment - Rectangle.runtimeconfig.dev.json
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\Week 4 Assignment - Rectangle.dll
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\ref\Week 4 Assignment - Rectangle.dll
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\bin\Debug\net5.0\Week 4 Assignment - Rectangle.pdb
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.csproj.AssemblyReference.cache
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.AssemblyInfoInputs.cache
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.AssemblyInfo.cs
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.dll
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\ref\Week 4 Assignment - Rectangle.dll
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.pdb
+C:\Users\S7534334\source\repos\Week 4 Assignment - Rectangle\Week 4 Assignment - Rectangle\obj\Debug\net5.0\Week 4 Assignment - Rectangle.genruntimeconfig.cache

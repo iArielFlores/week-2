@@ -48,14 +48,14 @@ namespace Week_3
             string s = Console.ReadLine();
             mph1 = int.Parse(s);
             car1.setspeed(mph1);
-            
+
 
             //car 2
             Console.WriteLine("Enter Car make2");
             make2 = Console.ReadLine();
 
             car2.setmake(make2);
-            
+
 
             Console.WriteLine("Enter what model2 ");
             model2 = Console.ReadLine();
@@ -96,8 +96,8 @@ namespace Week_3
                 difference = car1.getspeed() - speedLimit; // car1.speed - speedlimit
                 demerits = difference / 5;
 
-                
-                Console.WriteLine(car1.getmake() + " " + car1.getmodel() + ": " + car1.getspeed() + "mph" + " you received " + demerits + " demerits!" + ": OK");
+
+                Console.WriteLine(car1.getmake() + " " + car1.getmodel() + ": " + car1.getspeed() + "mph" + " you received " + demerits + " demerits!");
 
                 if (demerits > 10)
                 {
@@ -107,7 +107,7 @@ namespace Week_3
 
             else
             {
-                Console.WriteLine(car1.getmake() + " " + car1.getmodel() + ": " + "mph" + ": OK");// move this below
+                Console.WriteLine(car1.getmake() + " " + car1.getmodel() + ": " + car1.getspeed() + "mph" + ": OK");// move this below
             }
 
 
@@ -118,7 +118,7 @@ namespace Week_3
                 demerits = difference / 5;
 
 
-                Console.WriteLine(car2.getmake() + " " + car2.getmodel() + ": " + car2.getspeed() + "mph" + " you received " + demerits + " demerits!" + ": OK");
+                Console.WriteLine(car2.getmake() + " " + car2.getmodel() + ": " + car2.getspeed() + "mph" + " you received " + demerits + " demerits!");
 
                 if (demerits > 10)
                 {
@@ -137,11 +137,13 @@ namespace Week_3
                 demerits = difference / 5;
 
 
-                Console.WriteLine(car3.getmake() + " " + car3.getmodel() + ": " + car3.getspeed() + "mph" + " you received " + demerits + " demerits!" + ": OK");
+                Console.WriteLine(car3.getmake() + " " + car3.getmodel() + ": " + car3.getspeed() + "mph" + " you received " + demerits + " demerits!");
 
                 if (demerits > 10)
                 {
-                    Console.WriteLine(car3.getmake() + " " + car3.getmodel() + ": " + car3.getspeed() + "mph" + "you received " + demerits + " demerits!" + ": <LICENSE SUSPENDED>"); // make sure to use car1.make, etc., here
+                    //Console.WriteLine(car3.getmake() + " " + car3.getmodel() + ": " + car3.getspeed() + "mph" + " you received " + demerits + " demerits!" + ": <LICENSE SUSPENDED>"); // make sure to use car1.make, etc., here
+                    Console.WriteLine("<LICENSE SUSPENDED>"); // make sure to use car1.make, etc., here
+
                 }
             }
 

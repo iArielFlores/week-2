@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ndUxOuwP6audJoipYKxhFL7ewy5uHtRznx7JNUBWf7uiC33rpNgRKUg2IS7mlMp1xmT0eagU9q6xHwzhYPEZKQ==",
+  "dgSpecHash": "kyG2xkyJ7/ZDVz1tMMGtMmXm/KqxLlvTZ8HXqehTReglvxROsny+v7BsRyEI2N3sEoeTUtKaZHkO2Crr/WVbZA==",
   "success": true,
-  "projectFilePath": "E:\\Week 3 Assignment Instructions - Cars\\Week 3 Assignment Instructions - Cars\\Week 3 Assignment Instructions - Cars.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ariel Flores\\source\\repos\\Week 3 Assignment Instructions - Cars\\Week 3 Assignment Instructions - Cars\\Week 3 Assignment Instructions - Cars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
