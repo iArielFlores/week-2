@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Zv8gwsp3nP5yy5xqgGfE5YgXtrvnfmixOn5b61IJrNBJSlDCir5MpATV+6N7RQTh7kfGXViHrxfpivsGNiDc/Q==",
+  "dgSpecHash": "aPtyBfQ9oItZbYkrAVT61OnCUn+fTGr7ytoPjgbgHv6EVHZtRvTgCP3nLC8hOSERKR4Mt+DJWozDidtjV0d/Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S7534334\\source\\repos\\Week 4 Assignment - Rectangle\\Week 4 Assignment - Rectangle\\Week 4 Assignment - Rectangle.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ariel Flores\\source\\repos\\Week 4 Assignment - Rectangle\\Week 4 Assignment - Rectangle\\Week 4 Assignment - Rectangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Flores\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,32 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(32,1): error C2084: function 'Triangle::Triangle(void)' already has a body
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(17): message : see previous definition of '{ctor}'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(37,16): error C2039: 'setLength': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(39,2): error C2065: 'length': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(41,18): error C2039: 'getLength': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(43,9): error C2065: 'length': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(45,16): error C2039: 'setHeight': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(47,2): error C2065: 'height': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(49,18): error C2039: 'getHeight': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(51,9): error C2065: 'height': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(54,18): error C2039: 'calc': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(56,9): error C2065: 'lenght': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(56,18): error C2065: 'height': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(59,16): error C2039: 'display': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(61,29): error C2065: 'length': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(62,29): error C2065: 'height': undeclared identifier
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(71,16): error C2264: 'Triangle::Triangle': error in function definition or declaration; function not called
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(79,8): error C2039: 'setLength': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(83,8): error C2039: 'setHeight': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(85,8): error C2039: 'calc': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(86,8): error C2039: 'display': is not a member of 'Triangle'
+C:\Users\Ariel Flores\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10): message : see declaration of 'Triangle'

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47e2185a-43f4-4d7e-ad36-29b11681f4cd": {
+      "ProjectGuid": "47e2185a-43f4-4d7e-ad36-29b11681f4cd",
+      "DisplayName": "Chapter 5 - Hotel Occupancy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

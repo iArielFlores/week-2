@@ -1,0 +1,15 @@
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\bin\Debug\net6.0\Week 5 Assignment - C game-1343.exe
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\bin\Debug\net6.0\Week 5 Assignment - C game-1343.deps.json
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\bin\Debug\net6.0\Week 5 Assignment - C game-1343.runtimeconfig.json
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\bin\Debug\net6.0\Week 5 Assignment - C game-1343.dll
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\bin\Debug\net6.0\ref\Week 5 Assignment - C game-1343.dll
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\bin\Debug\net6.0\Week 5 Assignment - C game-1343.pdb
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.csproj.AssemblyReference.cache
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.AssemblyInfoInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.AssemblyInfo.cs
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.dll
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\ref\Week 5 Assignment - C game-1343.dll
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.pdb
+C:\Users\Ariel Flores\source\repos\Week 5 Assignment - C game-1343\obj\Debug\net6.0\Week 5 Assignment - C game-1343.genruntimeconfig.cache
