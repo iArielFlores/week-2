@@ -1,5 +1,10 @@
-// Chapter 5 - Hotel Occupancy.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*Ariel Flors
+
+ITSE- 1307 2801
+
+2/25/22
+
+Chapter 5 - Hotel Occupancy */
 
 #include <iostream>
 #include <iomanip>
@@ -10,59 +15,52 @@ using namespace std;
 
 int main()
 {
-    int x = 10;
-    int y = 9;
-    int hotel = 0;
-    int floors = 0;
-    int rooms = 0;
-    int rooms2 = 0;
-    int totalRooms = 0;
-    int unoccupied = 0;
-    double occupancyRate = 0;
-    ++x;
-    x++;
+    //1.Variable // attributes //instance fields // data memebers
+    int floors;
+    double rooms = 0;
+    int roomsOccupied = 0;
+    double totalRooms = 0;
+    double totalRoomsOccupied = 0;
+    int occupancy = 0;
+    double occupancyRate = 0.0;;
+    
 
-
+    //talking to user how many floors
     cout << "How many floors does the hotel have? " << endl;
-    cin >> hotel;
+    cin >> floors;
 
-    int lvl = 1;
-    
-    for ()
+
+    // input validation: floor count > 1
+    while (floors < 1)
     {
-        while (lvl < hotel)
-        {
-            cout << "How may rooms does level " << lvl << " have? " << endl;
-
-            cin >> rooms;
-            lvl++;
-        }
+        cout << "Error! Enter a number of floors: ";
+        cin >> floors;
     }
-    int counter = 1;
+
     
-    for ()
+    for (int i = 1; i <= floors; i++)
     {
-        while (counter < hotel) //loop 5 time 0 < 5 = true
-        {
-            cout << "How many rooms are occupied on level " << counter << endl;
+        //talking to user  of number of rooms and occupancy
+        cout << "How many rooms are on floor " << i << ": ";
+        cin >> rooms;
+        cout << "How many rooms or occupied " << i << ": ";
+        cin >> occupancy;
 
-            cin >> rooms2;
-            counter++;
-
-        }
+        totalRooms = totalRooms + rooms;
+        totalRoomsOccupied = totalRoomsOccupied + occupancy;
     }
+
+    //comput the occupancy rate
+    occupancyRate = 100*  (totalRoomsOccupied / totalRooms);
     
-    //Calculations
-    unoccupied = rooms - rooms2
-    totalRooms = rooms + rooms2;
-    occupancyRate = 
     //display
-    cout << "==================================" << endl;
-    cout << "Total number of rooms occupied: " << rooms2 << endl;
-    cout << "Total number of rooms unoccupied: " << rooms << endl;
-    cout << "Total number of rooms in the hotel: " << totalRooms << endl;
-    cout << "Percent of rooms occupied: " << endl;
-    cout << "==================================" << endl;
+   
+    cout << "================================= \n";
+    cout << "totalRoomsOccupied " << totalRoomsOccupied << endl;
+    cout << "totalRooms " << totalRooms << endl;
+    cout << "occupancyRate " << occupancyRate << "\n" << endl;
+    cout << "=================================";
+    
 
 }
 

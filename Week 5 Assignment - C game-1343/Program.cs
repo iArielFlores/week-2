@@ -8,15 +8,15 @@ namespace Week_5
         static void Main(string[] args)
         {
 
-
-            //ProblemOne();
-            //ProblemTwo();
+            ProblemOne();
+            ProblemTwo();
             ProblemThree();
 
-            
 
 
-        static void ProblemOne()
+
+
+            static void ProblemOne()
         {
                 int x = 1;
 
