@@ -26,7 +26,7 @@ namespace Week_5
                 {
                     continueLoop = false;
                 }
-                else 
+                else
                 {
                     Person p = new Person(input);
                     friend.Add(p);
@@ -46,11 +46,11 @@ namespace Week_5
             }
             if (friend.Count == 2)
             {
-                Console.WriteLine(friend[0].Name + ","+friend[1].Name+" likes your post");
+                Console.WriteLine(friend[0].Name + "," + friend[1].Name + " likes your post");
             }
             if (friend.Count > 3)
             {
-                Console.WriteLine(friend[0].Name +","+ friend[1].Name+ " and " + friend.Count + " likes your post");
+                Console.WriteLine(friend[0].Name + "," + friend[1].Name + " and " + friend.Count + " likes your post");
             }
 
 
@@ -72,40 +72,60 @@ namespace Week_5
         }
         static void ProblemTwo()
         {
-            Dictionary<string, string> IDs = new Dictionary<string, string>();
+            Dictionary<char, int> IDs = new Dictionary<char, int>();
 
             string userInput = "";
 
 
-            do
+            //do
+            //{
+            Console.WriteLine("Enter a sentence 'The Cake is a lie': ");
+            userInput = Console.ReadLine();
+
+            for (int i = 0; i < userInput.Length; i++)
             {
-                Console.WriteLine("Enter a sentence 'The Cake is a lie': ");
-                userInput = Console.ReadLine();
+                //Console.WriteLine(userInput.Length);
 
-                string[] pieces = userInput.Split(' ');
-
-                if (pieces.Length == 2)
+                if (!IDs.ContainsKey(userInput[i])) //doesnt have letter
                 {
-                    string tempKey = pieces[0];
-                    string tempValue = pieces[1] + " ";
-
-                    if (IDs.ContainsKey(tempKey))
-                    {
-                        Console.WriteLine("This ID is already in");
-                    }
-                    else
-                    {
-                        IDs.Add(tempKey, tempValue);
-                    }
+                    IDs.Add(userInput[i], 1); // add 1 of that letter
                 }
-            } while (userInput != "OK");
 
-                foreach (KeyValuePair<string, string> kvp in IDs)
+                else // increment the count of that letter
                 {
-                    Console.WriteLine(kvp.Key + " | " + kvp.Value);
-                    
+                    IDs[userInput[i]]++;
                 }
-            
+            }
+
+            foreach (KeyValuePair<char, int> kvp in IDs)
+            {
+                Console.WriteLine(kvp.Key + " | " + kvp.Value);
+            }
+
+            /*string[] pieces = userInput.Split(' ');
+
+            if (pieces.Length == 3)
+            {
+                string tempKey = pieces[0];
+                string tempValue = pieces[1] + " ";
+
+                if (IDs.ContainsKey(tempKey))
+                {
+                    Console.WriteLine("This ID is already in");
+                }
+                else
+                {
+                    IDs.Add(tempKey, tempValue);
+                }
+            }
+        //} while (userInput != "OK");
+
+            foreach (KeyValuePair<string, string> kvp in IDs)
+            {
+                Console.WriteLine(kvp.Key + " | " + kvp.Value);
+
+            }*/
+
         }
     }
 
